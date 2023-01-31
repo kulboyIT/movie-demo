@@ -1,2 +1,2 @@
 /test/* /:splat 200! Role=*
-/* /login 302!
+/test/* /login 302!
